@@ -1,6 +1,5 @@
 """
-NumRep CP2.2    :   Negative Log Likelihood(NLL) Minimisation, a python script for finding the best estimation of Tau,
-                    by minimising NLL.
+Negative Log Likelihood(NLL) Minimisation, a python script for finding the best estimation of Tau, by minimising NLL.
 
 Authors: Azid Harun
 
