@@ -1,5 +1,6 @@
 """
-Chi-Squared Minimisation, a python script for finding the best estimation of straight line parameter, m and c by minimising chi-squared.
+Chi-Squared Minimisation, a python script for finding the best estimation of straight line parameter, m and c 
+by minimising chi-squared.
 
 Authors: Azid Harun
 
